@@ -16,6 +16,7 @@ public class Factorial {
 		}
 		
 		System.out.println("Factorial of 5 is" + factorial);
+		System.out.println("hai");
 		
 	}
 
