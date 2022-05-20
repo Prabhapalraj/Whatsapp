@@ -16,7 +16,11 @@ public class Factorial {
 		}
 		
 		System.out.println("Factorial of 5 is" + factorial);
+
+		System.out.println("welcome");
+
 		System.out.println("user1");
+
 		
 	}
 
