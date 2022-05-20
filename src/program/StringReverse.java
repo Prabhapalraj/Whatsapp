@@ -3,6 +3,7 @@ package program;
 public class StringReverse {
 	
 	public static void main(String[] args) {
+		String g="hai";
 		
 		String str = "Suriya";
 		String rev = "";
